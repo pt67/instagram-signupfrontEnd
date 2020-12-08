@@ -24,7 +24,7 @@ body{
 }
 .signupcontentcontainer{
     width: 82%;
-    height: 70vh;
+    height: auto;
     margin: -10px auto;
 }
 ._wdftkt{
@@ -42,6 +42,7 @@ body{
     background-color: #0095f6;
     margin: 20px 0px;
     padding: 5px 0px 5px ;
+     cursor: pointer;
 }
 ._fblgn i{
     font-size: 22px;
